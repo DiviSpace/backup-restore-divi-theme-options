@@ -1,0 +1,73 @@
+=== Plugin Name ===
+Contributors: divispace, sitespace.club, bmwillrath
+Donate link: http://sitespace.club
+Tags: comments, spam
+Requires at least: 3.0
+Tested up to: 4.3.1
+Stable tag: /trunk/
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Need to transfer your Divi Theme Options from one Divi Install to another? No Problem
+
+== Description ==
+
+Need to transfer your Divi Theme Options to another Divi Install?
+No Problem.
+
+Backup Theme Options:
+1. Install this plugin
+2. Go to Divi > Backup/Restore Theme Options
+3. Download File
+
+Restore Theme Options:
+1. Install this plugin
+2. Go to Divi > Backup/Restore Theme Options
+3. Upload File
+
+Its that simple.
+
+== Installation ==
+=The Easy Way=
+1. Login to your wp-admin Dashboard
+2. Click Plugins
+3. Click "Add New" (up the top)
+4. Search for "Backup Restore Divi Theme Options"
+5. Click "Install"
+6. Click "Activate"
+7. Navigate to Divi > Backup/Restore Theme Options and begin using the plugin
+
+
+=The Hard Way=
+1. Find FTP Details to your Website
+2. Navigate to the /wp-content/plugins/ folder
+3. Upload the extracted zip folder `backup-restore-divi-theme-options` to the plugins folder
+4. Login to you Wordpress Dashboard
+5. Click Plugins
+6. Find "Backup Restore Divi Theme Options"
+7. Click activate on the plugin.
+8. Navigate to Divi > Backup/Restore Theme Options and begin using the plugin
+
+== Frequently Asked Questions ==
+
+= Do I have to use DiviSpace for this to work? =
+
+No, This will work on any Divi/Wordpress Installs.
+
+= Will this work with other themes? =
+
+No, this was designed for Divi, It may work with other themes by "Elegant Themes" but we're not sure.
+
+= Do you have a github repo of this plugin? =
+
+Yes, you can find us at https://github.com/SiteSpace/backup-restore-divi-theme-options
+
+= I love this plugin and I want to help make it better =
+
+Awesome, We'd love to have you on board, fork us on GitHub, make your changes and submit a pull request, we'll review it and if we like what we see, we'll be in contact
+https://github.com/SiteSpace/backup-restore-divi-theme-options
+
+== Changelog ==
+
+= 1.0 =
+* First Version, Hopefully no bugs.
