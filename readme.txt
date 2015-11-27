@@ -1,10 +1,11 @@
 === Plugin Name ===
-Contributors: divispace, sitespace.club, bmwillrath
-Donate link: http://sitespace.club
+Contributors: divispace, bmwillrath
+Donate link: http://divispace.com
 Tags: comments, spam
 Requires at least: 3.0
 Tested up to: 4.3.1
 Stable tag: /trunk/
+Version: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,39 +14,60 @@ Need to transfer your Divi Theme Options from one Divi Install to another? No Pr
 == Description ==
 
 Need to transfer your Divi Theme Options to another Divi Install?
-No Problem.
+No Problem, Its as simple as 1, 2, 3
 
-Backup Theme Options:
+**Backup Theme Options:**
+
 1. Install this plugin
+
 2. Go to Divi > Backup/Restore Theme Options
+
 3. Download File
 
-Restore Theme Options:
+**Restore Theme Options:**
+
 1. Install this plugin
+
 2. Go to Divi > Backup/Restore Theme Options
+
 3. Upload File
 
 Its that simple.
 
 == Installation ==
-=The Easy Way=
+**The Easy Way**
+
 1. Login to your wp-admin Dashboard
+
 2. Click Plugins
+
 3. Click "Add New" (up the top)
+
 4. Search for "Backup Restore Divi Theme Options"
+
 5. Click "Install"
+
 6. Click "Activate"
+
 7. Navigate to Divi > Backup/Restore Theme Options and begin using the plugin
 
 
-=The Hard Way=
+**The Hard Way**
+
 1. Find FTP Details to your Website
+
 2. Navigate to the /wp-content/plugins/ folder
+
 3. Upload the extracted zip folder `backup-restore-divi-theme-options` to the plugins folder
+
 4. Login to you Wordpress Dashboard
+
 5. Click Plugins
+
 6. Find "Backup Restore Divi Theme Options"
+
 7. Click activate on the plugin.
+
 8. Navigate to Divi > Backup/Restore Theme Options and begin using the plugin
 
 == Frequently Asked Questions ==
@@ -69,5 +91,8 @@ https://github.com/SiteSpace/backup-restore-divi-theme-options
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.1 =
+* Fixed up readme.txt layout and formatted instructions
+
+= 1.0.0 =
 * First Version, Hopefully no bugs.
