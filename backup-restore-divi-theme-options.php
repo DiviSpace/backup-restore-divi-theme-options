@@ -2,9 +2,14 @@
 /**
  * Plugin Name: Backup/Restore Divi Theme Options
  * Description: Backup & Restore your Divi Theme Options.
+ * Theme URI: https://github.com/SiteSpace/backup-restore-divi-theme-options
  * Author: Divi Space
  * Author URI: http://divispace.com
- * Version: 1.00
+ * Version: 1.0.2
+ * License: GNU General Public License v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * Tags: divi, theme options, theme settings, divi theme options, divi options, divi theme settings, divi settings
+ * Text Domain: backup-restore-divi-theme-options
  */
 
 
