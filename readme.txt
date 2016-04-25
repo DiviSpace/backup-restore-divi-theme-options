@@ -1,15 +1,17 @@
 === Backup/Restore Divi Theme Options ===
 Contributors: divispace, bmwillrath
-Donate link: http://divispace.com
-Tags: comments, spam
+Donate link: http://www.divispace.com
+Tags: backup, restore, divi, divispace, backup divi, restore divi, move divi, elegantthemes
 Requires at least: 3.0
-Tested up to: 4.3.1
+Tested up to: 4.5
 Stable tag: /trunk/
-Version: 1.0.2
+Version: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Need to transfer your Divi Theme Options from one Divi Install to another? No Problem
+Works with:
+* Divi 2.7 *(and Below)
 
 == Description ==
 **Need to transfer your Divi Theme Options to another Divi Install?**
@@ -27,6 +29,13 @@ No Problem.
 3. Upload File
 
 Its that simple.
+
+= Requirements =
+
+This plugin is designed to work with Divi by Elegant Themes. If you don't have this theme installed, this plugin likley won't work.
+
+- [Divi by Elegant Themes](http://www.divispace.com/go/divi/) (Affiliate Link)
+
 
 == Installation ==
 = The Easy Way: =
@@ -72,6 +81,10 @@ https://github.com/SiteSpace/backup-restore-divi-theme-options
 2. Even more simple to use
 
 == Changelog ==
+
+= 1.0.3 =
+* Added Wordpress 4.5 Support
+* Added Divi 2.7 Support
 
 = 1.0.2 =
 * **Cosmetic Updates Only**
