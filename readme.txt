@@ -2,7 +2,7 @@
 Contributors: divispace, bmwillrath
 Donate link: http://www.divispace.com
 Tags: backup, restore, divi, divispace, backup divi, restore divi, move divi, elegantthemes
-Requires at least: 3.0
+Requires at least: 3.8
 Tested up to: 4.5
 Stable tag: /trunk/
 Version: 1.0.3
@@ -10,8 +10,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Need to transfer your Divi Theme Options from one Divi Install to another? No Problem
-Works with:
-* Divi 2.7 *(and Below)
+Works with: Divi 2.7 (and Below)
 
 == Description ==
 **Need to transfer your Divi Theme Options to another Divi Install?**
